@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **C++** **Js**
 
 - 📫 How to reach me **hashanhirantha12@gmail.com**
 
